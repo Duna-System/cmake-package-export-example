@@ -5,3 +5,9 @@ This is a (supposedly) minimal cmake project that exports a library as a cmake p
 - `mkdir build`
 - `cmake .. -DCMAKE_INSTALL_PREFIX=install` (install locally)
 - `make`
+
+## Client code
+- `cd clientCode`
+- `mkdir build`
+- `cmake ..`
+- `make`
